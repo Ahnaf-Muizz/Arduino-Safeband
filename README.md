@@ -22,6 +22,9 @@ Plays a confirmation beep + flashes green LED on successful scan.
 
 Resets safety timer whenever a card is scanned.
 
+QR code to Web Application:
+<img width="3000" height="3000" alt="qr code" src="https://github.com/user-attachments/assets/8cef515b-461c-4652-9774-f24db3b7e735" />
+
 🔧 Hardware Requirements
 
 Arduino Uno/Nano
