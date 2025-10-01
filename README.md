@@ -1,5 +1,5 @@
 # Arduino-Safeband
-This Arduino code is to created to work with the Safe School web app 
+This Arduino code is created to work with the Safe School web app 
 Safe-School: Multi-Tap Alarm & RFID Attendance System
 
 This Arduino project integrates two critical safety and tracking features into one system:
